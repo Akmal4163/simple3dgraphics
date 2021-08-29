@@ -169,7 +169,7 @@ public:
 
 };
 
-int main(int argc(), char* argv[])
+int main(int argc, char *argv[])
 {
 	coreEngine demo;
 	if (demo.Construct(256, 240, 4, 4))
